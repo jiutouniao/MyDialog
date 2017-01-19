@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+
+
+    <string name="ok_dialog">"确认删除选中的%1$d个单词？"</string>
+    <string name="delte">"删除"</string>
+    <string name="ok_button">"确认"</string>
+    <string name="name_length">内容不能为空</string>
+
+</resources>
